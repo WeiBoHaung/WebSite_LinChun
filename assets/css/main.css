@@ -2471,7 +2471,7 @@ input, select, textarea {
 			}
 
 		.icon.major {
-			background: #272833;
+			background: #9db4b9;
 			border-radius: 100%;
 			cursor: default;
 			display: inline-block;
@@ -3061,7 +3061,7 @@ input, select, textarea {
 			background-image: url("images/overlay.png");
 			background-size: cover;
 			content: '';
-			display: block;
+			/* display: block; */
 			height: 100%;
 			left: 0;
 			top: 0;
@@ -3085,7 +3085,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
-			background: #e68595;
+			background: #DAB2BF;
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
@@ -3145,11 +3145,11 @@ input, select, textarea {
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: #6EC3C9;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: #6EC3C9;
 		}
 
 		.spotlight.inactive .content {
@@ -3203,7 +3203,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: ##6EC3C9;
+			background: rgb(141, 151, 151);
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3494,7 +3494,7 @@ input, select, textarea {
 			max-width: 95%;
 			padding: 6em;
 			position: relative;
-			text-align: right;
+			text-align: left;
 			vertical-align: middle;
 			z-index: 1;
 		}
@@ -3537,7 +3537,7 @@ input, select, textarea {
 
 	#footer {
 		background: #272833;
-		padding: 6em 0;
+		/* padding: 6em 0; */
 		text-align: center;
 	}
 
