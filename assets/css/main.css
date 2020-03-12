@@ -2187,7 +2187,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #5f5f5f5;
+			background: #5f5f5f87;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -2471,7 +2471,7 @@ input, select, textarea {
 			}
 
 		.icon.major {
-			background: #5f5f5f5;
+			background: #5f5f5f87;
 			border-radius: 100%;
 			cursor: default;
 			display: inline-block;
@@ -3141,15 +3141,15 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #6EC3C9;
+			border-color: #5f5f5f87;
 		}
 
 		.spotlight.style2 .content {
-			border-color: #6EC3C9;
+			border-color: #5f5f5f87;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #6EC3C9;
+			border-color: #5f5f5f87;
 		}
 
 		.spotlight.inactive .content {
