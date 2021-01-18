@@ -1,35 +1,59 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+TITLE: 
+Wedding Free HTML5 Bootstrap Template for Wedding Website
+AUTHOR:
+DESIGNED & DEVELOPED by QBOOTSTRAP.COM
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
+Website: 		http://qbootstrap.com/
+Twitter: 		http://twitter.com/Q_bootstrap
+Facebook: 		https://www.facebook.com/Qbootstrap
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+CREDITS:
 
-(* = Not included)
+Bootstrap
+http://getbootstrap.com/
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+jQuery
+http://jquery.com/
 
-AJ
-aj@lkn.io | @ajlkn
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
+Modernizr
+http://modernizr.com/
 
-Credits:
+Google Fonts
+https://www.google.com/fonts/
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Icomoon
+https://icomoon.io/app/
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Simple Line Icons
+https://github.com/thesabbir/simple-line-icons
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Flaticon Icons
+https://www.flaticon.com/
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
+
+Stellar JS
+http://markdalgleish.com/projects/stellar.js/
+
+Magnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
+
+YTPlayer Video Background JS
+http://pupunzi.open-lab.com
+
+Flex Slider
+http://www.woothemes.com/flexslider/
